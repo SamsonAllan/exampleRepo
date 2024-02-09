@@ -9,6 +9,7 @@ public class Engineer {
         this.name = name;
         this.position = position;
     }
+// getter and setter
 
     public String getName() {
         return name;
