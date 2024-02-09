@@ -2,6 +2,9 @@ package myPack;
 
 public class Engineer {
 
+// basic POJO
+
+// fields
     private String name;
     private String position;
 
@@ -9,7 +12,7 @@ public class Engineer {
         this.name = name;
         this.position = position;
     }
-
+// getter and setter
     public String getName() {
         return name;
     }
